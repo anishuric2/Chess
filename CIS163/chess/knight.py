@@ -3,7 +3,7 @@ from move import Move
 from typing import List
 from player import Player
 
-
+#t
 class Knight(ChessPiece):
     """Represents a knight chess piece, inheriting from ChessPiece."""
     def __str__(self) -> str:
